@@ -30,5 +30,3 @@ class MainActivity : AppCompatActivity(){
         startActivity(intent)
     }
 }
-
-/// Upload the new files.... with all the changes that I made now.... the same way i did before?AMAN? YES!!!!! UPLOAD ALL OF THEM ok
